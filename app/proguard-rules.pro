@@ -1,0 +1,4 @@
+-keep class com.souleven.wap.CacheManager { *; }
+-keep class com.souleven.wap.Main { *; }
+-keep class com.souleven.wap.ai.** { *; }
+-keep class com.souleven.wap.UiHooks { *; }

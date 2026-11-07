@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Auto reply</string>
+    <string name="xposed_description">WhatsApp &amp; WA Business Plus Unlocker</string>
+    <array name="scope">
+        <item>com.whatsapp</item>
+        <item>com.whatsapp.w4b</item>
+    </array>
+    <string name="a11y_description">Lets Auto reply read the open WhatsApp chat and send AI auto-replies while WhatsApp is open.</string>
+</resources>
